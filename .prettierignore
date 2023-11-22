@@ -1,0 +1,10 @@
+# Ignore all files in the "node_modules" directory
+node_modules/
+
+# Ignore all JavaScript files in the "dist" directory
+dist/**/*.js
+
+# Ignore specific file or files
+# ignore-this-file.js
+# ignore-this-directory/
+*.html
